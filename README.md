@@ -54,7 +54,7 @@ Make sure you have the following tools installed on your machine:
     dotnet run
     ```
 
-3. Open your browser and navigate to [https://localhost:7128](https://localhost:7283).
+3. Open your browser and navigate to [https://localhost:7128](https://localhost:7128).
 
 ## Additional Information
 
